@@ -343,8 +343,9 @@ The real .env file is excluded for security reasons.
 
 Screeshots
 
-![Python Menu](screenshots/Python_App_Menu.png)
+![Python Menu](images/Python_App_Menu.png)
 
-![Cancellation Refund](screenshots/Check_paymen_or_refund.png)
+![Cancellation Refund](images/Check_paymen_or_refund.png)
 
-![Audit Log](screenshots/Check_Cancellation.png)
+![Audit Log](images/Check_Cancellation.png)
+
