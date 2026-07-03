@@ -3,7 +3,6 @@
 ## Student Information
 
 _Student Name:_ Ala Hussain Fahaid Alsagoor
-_Student ID:_ 447300049
 _Project Title:_ Grand Horizon Hotel Booking System with Cancellation & Refund Logic  
 _Database System:_ PostgreSQL  
 _Application Language:_ Python  
