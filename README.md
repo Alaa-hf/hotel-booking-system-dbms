@@ -33,7 +33,7 @@ Install dependencies:
 ```bash
 pip install -r requirements.txt
 
-````
+```
 
 Create a .env file using .env.example as a template:
 
