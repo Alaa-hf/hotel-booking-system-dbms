@@ -1,4 +1,4 @@
-````Markdown
+```Markdown
 
 # Grand Horizon Hotel Booking System
 
@@ -27,14 +27,14 @@ Run the files in this order:
 ## How to Run the Python App
 
 Go to the 04_application folder.
+```
 
 Install dependencies:
 
 ```bash
 pip install -r requirements.txt
-```
 
-````
+```
 
 Create a .env file using .env.example as a template:
 
@@ -54,6 +54,7 @@ py app.py
 
 App Menu
 
+```python
 1. View all active bookings
 2. Add a new guest
 3. Update a guest’s email address
@@ -61,7 +62,12 @@ App Menu
 5. Book a room
 6. Run the Frequent Cancellers Report
 7. Exit
+```
 
 Security Note
 
+```bash
 The real .env file is not included in the submission because it contains private database credentials.
+```
+
+![ERD](images/ERD.png)
