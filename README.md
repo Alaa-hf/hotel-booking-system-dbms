@@ -66,8 +66,17 @@ App Menu
 
 Security Note
 
-```bash
+```markdown
 The real .env file is not included in the submission because it contains private database credentials.
 ```
 
+```markdown
+## Entity Relationship Diagram (ERD)
+The following diagram shows the database schema and the relationship between all tables.
+```
 ![ERD](images/ERD.png)
+
+```sql
+SELECT *
+FROM bookings;
+```
